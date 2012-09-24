@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="35BD42BF-D074-45D9-8008-4C17B84599CB" ModuleId="FizzBuzzWhiz" />
+  <Module PersistentId="C33317D8-50E3-4C20-B6B7-5DD1DC04A88D" ModuleId="FizzBuzzWhiz.Test" />
+</Modules>

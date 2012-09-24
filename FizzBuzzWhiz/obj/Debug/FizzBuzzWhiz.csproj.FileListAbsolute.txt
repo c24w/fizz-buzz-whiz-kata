@@ -1,0 +1,5 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\bin\Debug\FizzBuzzWhiz.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\bin\Debug\FizzBuzzWhiz.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\obj\Debug\FizzBuzzWhiz.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\obj\Debug\FizzBuzzWhiz.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\obj\Debug\FizzBuzzWhiz.pdb

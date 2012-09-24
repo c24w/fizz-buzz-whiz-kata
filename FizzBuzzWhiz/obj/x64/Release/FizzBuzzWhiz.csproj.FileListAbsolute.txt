@@ -1,0 +1,6 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\bin\x64\Release\FizzBuzzWhiz.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\bin\x64\Release\FizzBuzzWhiz.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\obj\x64\Release\FizzBuzzWhiz.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\obj\x64\Release\FizzBuzzWhiz.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\bin\x64\Release\nunit.framework.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz\bin\x64\Release\nunit.framework.xml

@@ -1,0 +1,7 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz.Test\bin\Release\FizzBuzzWhiz.Test.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz.Test\bin\Release\FizzBuzzWhiz.Test.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz.Test\bin\Release\nunit.framework.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz.Test\bin\Release\nunit.framework.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz.Test\obj\Release\FizzBuzzWhiz.Test.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz.Test\obj\Release\FizzBuzzWhiz.Test.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\FizzBuzzWhiz\FizzBuzzWhiz.Test\obj\Release\FizzBuzzWhiz.Test.pdb
